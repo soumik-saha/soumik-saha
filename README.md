@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **soumiksahaofficial@outlook.com**
 
-- 📄 Know about my experiences [Soumik_Resume](Soumik_Resume)
+- 📄 Know about my experiences [Soumik_Resume](https://github.com/soumik-saha/soumik-saha/blob/main/Soumik_Resume.pdf)
 
 - ⚡ Fun fact **I don't believe anyone except me!**
 
