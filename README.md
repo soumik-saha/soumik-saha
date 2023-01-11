@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **soumiksahaofficial@outlook.com**
 
-- 📄 Know about my experiences [bit.ly/soumikresume](https://www.bit.ly/soumikresume)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1f_l7A9MXtQtUTxv8rwd-aU-CYI9wsRzO](Soumik_Resume)
 
 - ⚡ Fun fact **I don't believe anyone except me!**
 
