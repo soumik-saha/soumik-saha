@@ -32,7 +32,7 @@
 
 - 📄 Know about my experiences [Soumik_Resume](https://drive.google.com/file/d/1s9vK9cMRsNDPSSIYmz0pvYfXnG3VwdRa/view?usp=sharing)
 
-- ⚡ Fun fact **I don't believe anyone except me!**
+- ⚡ Fun fact **Sometimes I need to restart my brain to start again it with full efficiency!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
