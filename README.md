@@ -37,12 +37,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://dev.to/soumiksaha" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg" alt="soumiksaha" height="30" width="30" />  </a> -->
-<a href="https://twitter.com/soumik__saha" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="soumik__saha" height="30" width="30" />  </a>
-<a href="https://linkedin.com/in/soumiksahaofficial" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="soumiksahaofficial" height="30" width="30" />  </a>
+<a href="https://twitter.com/soumikisonline" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="soumikisonline" height="30" width="30" />  </a>
+<a href="https://linkedin.com/in/soumikisonline" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="soumikisonline" height="30" width="30" />  </a>
 <!-- <a href="https://stackoverflow.com/users/17490036" target="blank"><img align="center" src="" alt="17490036" height="30" width="30" /> </a> -->
 <!-- <a href="https://codesandbox.com/soumiksaha" target="blank"><img align="center" src="" alt="soumiksaha" height="30" width="30" /> </a> -->
-<a href="https://fb.com/soumiksahaonline" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="soumiksahaonline" height="30" width="30" />  </a>
-<a href="https://instagram.com/soumik__saha" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="soumik__saha" height="30" width="30" />  </a>
+<a href="https://fb.com/soumikisonline" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="soumiksahaonline" height="30" width="30" />  </a>
+<a href="https://instagram.com/soumikisonline" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="soumikisonline" height="30" width="30" />  </a>
 <!-- <a href="https://www.behance.net/soumik_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="soumik_saha" height="30" width="30" />  </a> -->
 <!-- <a href="https://hashnode.com/@soumiksaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@soumiksaha" height="30" width="30" />  </a> -->
 <!-- <a href="https://medium.com/@soumik_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@soumik_saha" height="30" width="30" />  </a> -->
