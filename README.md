@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/soumikisonline" target="blank"><img src="https://img.shields.io/twitter/follow/soumik__saha?logo=twitter&style=for-the-badge" alt="soumikisonline" /></a> </p>
+<p align="left"> <a href="https://twitter.com/soumikisonline" target="blank"><img src="https://img.shields.io/twitter/follow/soumikisonline?logo=twitter&style=for-the-badge" alt="soumikisonline" /></a> </p>
 
 - 🔭 I’m currently working on [my Personal Portfolio!](https://www.edgeofsoumik.com)
 
