@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Soumik Saha</h1>
 
-<h3 align="center">A Passionate Competitive Programmer, Software Developer & Hustler from India</h3>
+<h3 align="center">A Passionate Software Developer, Open Source Contributer & Hustler from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumik-saha&label=Profile%20views&color=0e75b6&style=flat" alt="soumik-saha" /> </p>
 
@@ -14,21 +14,21 @@
 
 <p align="left"> <a href="https://twitter.com/soumikisonline" target="blank"><img src="https://img.shields.io/twitter/follow/soumikisonline?logo=twitter&style=for-the-badge" alt="soumikisonline" /></a> </p>
 
-- 🔭 I’m currently working on [my Personal Portfolio!](https://www.edgeofsoumik.com)
+- 🔭 I’m currently working on [Open Source Projects](#)
 
-- 🌱 I’m currently learning **Data Structures & Algorithm using C++**
+- 🌱 I’m currently learning **DevOps**
 
 <!-- - 👯 I’m looking to collaborate with **other Developers** -->
 
 <!-- - 🤝 I’m looking for help with **Competitive Programming** -->
 
-- 👨‍💻 All of my projects are available at [www.edgeofsoumik.com](https://www.edgeofsoumik.com)
+- 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/soumik-saha/)
 
 <!-- - 📝 I regularly write articles on [www.edgeofsoumik.com](https://www.edgeofsoumik.com) -->
 
-- 💬 Ask me about **C++, Python, Django, HTML & CSS**
+- 💬 Ask me about **Software Development**
 
-- 📫 How to reach me **soumiksahaofficial@outlook.com**
+- 📫 How to reach me **soumik.cse121029@bppimt.ac.in**
 
 - 📄 Know about my experiences [Soumik_Resume](https://drive.google.com/file/d/1s9vK9cMRsNDPSSIYmz0pvYfXnG3VwdRa/view?usp=sharing)
 
@@ -41,7 +41,7 @@
 <a href="https://linkedin.com/in/soumikisonline" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="soumikisonline" height="30" width="30" />  </a>
 <!-- <a href="https://stackoverflow.com/users/17490036" target="blank"><img align="center" src="" alt="17490036" height="30" width="30" /> </a> -->
 <!-- <a href="https://codesandbox.com/soumiksaha" target="blank"><img align="center" src="" alt="soumiksaha" height="30" width="30" /> </a> -->
-<a href="https://fb.com/soumikisonline" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="soumiksahaonline" height="30" width="30" />  </a>
+<a href="https://facebook.com/soumikisonline" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="soumiksahaonline" height="30" width="30" />  </a>
 <a href="https://instagram.com/soumikisonline" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="soumikisonline" height="30" width="30" />  </a>
 <!-- <a href="https://www.behance.net/soumik_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="soumik_saha" height="30" width="30" />  </a> -->
 <!-- <a href="https://hashnode.com/@soumiksaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@soumiksaha" height="30" width="30" />  </a> -->
