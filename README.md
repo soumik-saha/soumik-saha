@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Open Source Projects](#)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Backend Development**
 
 <!-- - 👯 I’m looking to collaborate with **other Developers** -->
 
