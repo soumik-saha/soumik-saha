@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **soumik.cse121029@bppimt.ac.in**
 
-- 📄 Know about my experiences [bit.ly/soumiksaharesume](https://bit.ly/soumiksaharesume)
+- 📄 Know about my experiences [Soumik_Resume]([https://bit.ly/soumiksaharesume](https://drive.google.com/file/d/18exj8MGY900p37zZsqSJ2FQXCNJd5eqs/view?usp=sharing))
 
 - ⚡ Fun fact **Sometimes I need to restart my brain to start again it with full efficiency!**
 
@@ -58,7 +58,7 @@
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/sahasoumik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sahasoumik" height="30" width="30" />  </a>
+<a href="https://www.codechef.com/users/edgeofsoumik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="edgeofsoumik" height="30" width="30" />  </a>
 <a href="https://www.hackerrank.com/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="soumiksaha" height="30" width="30" />  </a>
 <a href="https://codeforces.com/profile/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="soumiksaha" height="30" width="30" />  </a>
 <a href="https://www.leetcode.com/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="soumiksaha" height="30" width="30" />  </a>
