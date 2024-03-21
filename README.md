@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **soumik.cse121029@bppimt.ac.in**
 
-- 📄 Know about my experiences [Soumik_Resume](https://drive.google.com/file/d/18exj8MGY900p37zZsqSJ2FQXCNJd5eqs/view?usp=sharing)
+- 📄 Know about my experiences [Soumik_Resume](https://drive.google.com/file/d/1wPv-0-2_72Q_Joyfe7wY77aePBB7mB1D/view?usp=sharing)
 
 - ⚡ Fun fact **Sometimes I need to restart my brain to start again it with full efficiency!**
 
