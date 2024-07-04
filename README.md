@@ -1,10 +1,8 @@
-<!-- [![MasterHead](https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)](https://www.edgeofsoumik.com) -->
-
 <img align="centre" alt="Coding" width="1500" height="200" src="SOUMIK SAHA (1).png">
 
 <!-- <h1 align="center">Hi 👋, I'm Soumik Saha</h1> -->
 
-<h3 align="center">A Passionate Software Developer, Open Source Contributer & Hustler from India</h3>
+<h3 align="center">A Passionate Web Developer, Competitive Programmer & Hustler from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumik-saha&label=Profile%20views&color=0e75b6&style=flat" alt="soumik-saha" /> </p>
 
@@ -14,89 +12,105 @@
 
 <p align="left"> <a href="https://twitter.com/soumikisonline" target="blank"><img src="https://img.shields.io/twitter/follow/soumikisonline?logo=twitter&style=for-the-badge" alt="soumikisonline" /></a> </p>
 
-- 🔭 I’m currently working on [Open Source Projects](#)
+- 🔭 I’m currently working on [Flight Management System](https://github.com/soumik-saha/flight-management-system)
 
-- 🌱 I’m currently learning **Backend Development**
-
-<!-- - 👯 I’m looking to collaborate with **other Developers** -->
-
-<!-- - 🤝 I’m looking for help with **Competitive Programming** -->
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/soumik-saha/)
 
-<!-- - 📝 I regularly write articles on [www.edgeofsoumik.com](https://www.edgeofsoumik.com) -->
-
-- 💬 Ask me about **Software Development**
-
 - 📫 How to reach me **soumik.cse121029@bppimt.ac.in**
 
-- 📄 Know about my experiences [Soumik_Resume](https://drive.google.com/file/d/1wPv-0-2_72Q_Joyfe7wY77aePBB7mB1D/view?usp=sharing)
+- 📄 Know about my experiences [Soumik_Resume]([https://drive.google.com/file/d/1wPv-0-2_72Q_Joyfe7wY77aePBB7mB1D/view?usp=sharing](https://drive.google.com/file/d/1JS2quJHYwmRCoWFlNxa0c-ES_xwMT5zy/view?usp=sharing))
 
-- ⚡ Fun fact **Sometimes I need to restart my brain to start again it with full efficiency!**
+- 🌐 Check out my portfolio at [soumik.me](https://soumik.me/)
+
+- 💬 Ask me about **Software Development & Problem Solving**
+
+- ⚡ Fun fact **Sometimes I need to restart my brain to start again with full efficiency!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://dev.to/soumiksaha" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg" alt="soumiksaha" height="30" width="30" />  </a> -->
 <a href="https://twitter.com/soumikisonline" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="soumikisonline" height="30" width="30" />  </a>
 <a href="https://linkedin.com/in/soumikisonline" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="soumikisonline" height="30" width="30" />  </a>
-<!-- <a href="https://stackoverflow.com/users/17490036" target="blank"><img align="center" src="" alt="17490036" height="30" width="30" /> </a> -->
-<!-- <a href="https://codesandbox.com/soumiksaha" target="blank"><img align="center" src="" alt="soumiksaha" height="30" width="30" /> </a> -->
 <a href="https://facebook.com/soumikisonline" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="soumiksahaonline" height="30" width="30" />  </a>
 <a href="https://instagram.com/soumikisonline" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="soumikisonline" height="30" width="30" />  </a>
-<!-- <a href="https://www.behance.net/soumik_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="soumik_saha" height="30" width="30" />  </a> -->
-<!-- <a href="https://hashnode.com/@soumiksaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@soumiksaha" height="30" width="30" />  </a> -->
-<!-- <a href="https://medium.com/@soumik_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@soumik_saha" height="30" width="30" />  </a> -->
-<a href="https://www.youtube.com/c/edgeofsoumik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="edgeofsoumik" height="30" width="30" />  </a>
-<!-- <a href="https://www.codechef.com/users/sahasoumik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sahasoumik" height="30" width="30" />  </a> -->
-<!-- <a href="https://www.hackerrank.com/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="soumiksaha" height="30" width="30" />  </a> -->
-<!-- <a href="https://codeforces.com/profile/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="soumiksaha" height="30" width="30" />  </a> -->
-<!-- <a href="https://www.leetcode.com/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="soumiksaha" height="30" width="30" />  </a> -->
-<!-- <a href="https://www.hackerearth.com/soumiksaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="soumiksaha" height="30" width="30" />  </a> -->
-<!-- <a href="https://auth.geeksforgeeks.org/user/soumik_saha/profile" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="soumik_saha/profile" height="30" width="30" />  </a> -->
-<!-- <a href="https://www.topcoder.com/members/soumiksaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="soumiksaha" height="30" width="30" />  </a> -->
+<!-- <a href="https://www.youtube.com/c/edgeofsoumik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="edgeofsoumik" height="30" width="30" />  </a> -->
 </p>
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/edgeofsoumik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="edgeofsoumik" height="30" width="30" />  </a>
-<a href="https://www.hackerrank.com/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="soumiksaha" height="30" width="30" />  </a>
-<a href="https://codeforces.com/profile/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="soumiksaha" height="30" width="30" />  </a>
-<a href="https://www.leetcode.com/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="soumiksaha" height="30" width="30" />  </a>
-<!-- <a href="https://www.hackerearth.com/soumiksaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="soumiksaha" height="30" width="30" />  </a> -->
-<a href="https://auth.geeksforgeeks.org/user/soumik_saha/profile" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="soumik_saha/profile" height="30" width="30" />  </a>
-<!-- <a href="https://www.topcoder.com/members/soumiksaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="soumiksaha" height="30" width="30" />  </a> -->
+  <a href="https://www.leetcode.com/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="soumiksaha" height="30" width="30" />  </a>
+  <a href="https://auth.geeksforgeeks.org/user/soumik_saha/profile" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="soumik_saha/profile" height="30" width="30" />  </a>
+  <a href="https://www.codechef.com/users/edgeofsoumik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="edgeofsoumik" height="30" width="30" />  </a>
+  <a href="https://www.hackerrank.com/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="soumiksaha" height="30" width="30" />  </a>
+  <a href="https://codeforces.com/profile/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="soumiksaha" height="30" width="30" />  </a>
 </p>
-  
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<!--   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<!--   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  -->
-<!--   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  --> 
-<!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  -->
-<!--   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  -->
-<!--   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  -->
-<!--   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  -->
-<!--   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p> -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://heroku.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a>
+</p>
+
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/soumiksaha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soumiksaha" /></a></p><br><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumik-saha&show_icons=true&locale=en&layout=compact" alt="soumik-saha" /></p>
+<p><a href="https://www.buymeacoffee.com/edgeofsoumik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="edgeofsoumik" /></a></p><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumik-saha&show_icons=true&locale=en" alt="soumik-saha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumik-saha&" alt="soumik-saha" /></p>
-
-
-<!---
-soumik-saha/soumik-saha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
