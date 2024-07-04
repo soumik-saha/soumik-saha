@@ -2,7 +2,7 @@
 
 <img align="centre" alt="Coding" width="1500" height="200" src="SOUMIK SAHA (1).png">
 
-<h1 align="center">Hi 👋, I'm Soumik Saha</h1>
+<!-- <h1 align="center">Hi 👋, I'm Soumik Saha</h1> -->
 
 <h3 align="center">A Passionate Software Developer, Open Source Contributer & Hustler from India</h3>
 
