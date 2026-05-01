@@ -1,116 +1,139 @@
-<img align="centre" alt="Coding" width="1500" height="200" src="SOUMIK SAHA (1).png">
+# Soumik Saha — Backend Engineer | Java · Spring Boot · System Design
 
-<!-- <h1 align="center">Hi 👋, I'm Soumik Saha</h1> -->
-
-<h3 align="center">A Passionate Web Developer, Competitive Programmer & Hustler from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumik-saha&label=Profile%20views&color=0e75b6&style=flat" alt="soumik-saha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumik-saha" alt="soumik-saha" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <a href="https://twitter.com/soumikisonline" target="blank"><img src="https://img.shields.io/twitter/follow/soumikisonline?logo=twitter&style=for-the-badge" alt="soumikisonline" /></a> </p>
-
-- 🔭 I’m currently working on [Flight Management System](https://github.com/soumik-saha/flight-management-system)
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/soumik-saha/)
-
-- 📫 How to reach me **soumik.cse121029@bppimt.ac.in**
-
-- 📄 Know about my experiences [Soumik_Resume]([https://drive.google.com/file/d/1wPv-0-2_72Q_Joyfe7wY77aePBB7mB1D/view?usp=sharing](https://drive.google.com/file/d/1JS2quJHYwmRCoWFlNxa0c-ES_xwMT5zy/view?usp=sharing))
-
-- 🌐 Check out my portfolio at [soumik.me](https://soumik.me/)
-
-- 💬 Ask me about **Software Development & Problem Solving**
-
-- ⚡ Fun fact **Sometimes I need to restart my brain to start again with full efficiency!**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/soumikisonline" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="soumikisonline" height="30" width="30" />  </a>
-<a href="https://linkedin.com/in/soumikisonline" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="soumikisonline" height="30" width="30" />  </a>
-<a href="https://facebook.com/soumikisonline" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="soumiksahaonline" height="30" width="30" />  </a>
-<a href="https://instagram.com/soumikisonline" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="soumikisonline" height="30" width="30" />  </a>
-<!-- <a href="https://www.youtube.com/c/edgeofsoumik" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="edgeofsoumik" height="30" width="30" />  </a> -->
+  <a href="https://linkedin.com/in/soumikisonline"><img src="https://img.shields.io/badge/LinkedIn-soumikisonline-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://soumik.me"><img src="https://img.shields.io/badge/Portfolio-soumik.me-4A90E2?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:sahasoumik1573@gmail.com"><img src="https://img.shields.io/badge/Email-sahasoumik1573@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=soumik-saha&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<h3 align="left">Coding Profiles:</h3>
-<p align="left">
-  <a href="https://www.leetcode.com/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="soumiksaha" height="30" width="30" />  </a>
-  <a href="https://auth.geeksforgeeks.org/user/soumik_saha/profile" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="soumik_saha/profile" height="30" width="30" />  </a>
-  <a href="https://www.codechef.com/users/edgeofsoumik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="edgeofsoumik" height="30" width="30" />  </a>
-  <a href="https://www.hackerrank.com/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="soumiksaha" height="30" width="30" />  </a>
-  <a href="https://codeforces.com/profile/soumiksaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="soumiksaha" height="30" width="30" />  </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://heroku.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-</p>
+## What I Do
 
+- Design and build REST APIs with clear contracts, layered service boundaries, and explicit error handling
+- Apply correctness-first patterns — idempotency keys for deduplication, pessimistic locking for concurrent writes, and audit trails for observability
+- Structure Spring Boot applications with separation of concerns: controller → service → repository, with profile-based config for dev/prod parity
+- Decompose systems into cooperating services: Java backend + Python microservice + Helm-based Kubernetes deployment (see **Briefly**)
+- Integrate security at the infrastructure layer — custom JWT filter chain, role-scoped endpoints, and admin registration gated by a shared secret header
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/edgeofsoumik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="edgeofsoumik" /></a></p><br><br><br>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumik-saha&show_icons=true&locale=en" alt="soumik-saha" /></p>
+## Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumik-saha&" alt="soumik-saha" /></p>
+**Backend**
+`Java 17` · `Spring Boot 3.x` · `Spring Security` · `Spring Data JPA` · `Python 3` · `FastAPI` · `Node.js` · `Express.js`
+
+**Databases**
+`PostgreSQL` · `MySQL` · `MongoDB` · `H2 (testing)`
+
+**Infrastructure & Tools**
+`Docker` · `Docker Compose` · `Helm` · `Kubernetes` · `Maven` · `Gradle` · `Git` · `Caffeine Cache`
+
+---
+
+## Featured Projects
+
+### [ecommerce-application](https://github.com/soumik-saha/ecommerce-application)
+> Production-grade e-commerce REST API — cart, checkout, order lifecycle, payments, returns, audit trail.
+
+**Engineering Highlights**
+
+| Area | Decision |
+|---|---|
+| **API Design** | Role-scoped endpoints (`USER` / `ADMIN`); admin registration protected by `X-Admin-Secret` header to prevent privilege escalation without a separate admin service |
+| **Authentication** | Custom `JwtAuthenticationFilter` injects principal before the security chain; access + refresh token pair with configurable expiry; `401` / `403` handled by dedicated entry points |
+| **Database** | PostgreSQL (prod) / H2 (test) via Spring profiles; `findByIdForUpdate` (pessimistic lock) on product rows during checkout prevents oversell under concurrent requests |
+| **Idempotency** | Order creation checks for an existing `idempotencyKey` before inserting — a duplicate POST returns the original order, not a second charge |
+| **Async processing** | Order confirmation dispatched to a dedicated `notificationExecutor` thread pool via `@Async` — API response is not blocked by downstream notification latency |
+| **Caching** | Caffeine in-process cache with the Spring Cache abstraction; designed to swap to Redis by changing a single dependency |
+| **Audit logging** | Batch audit upload with per-entry idempotency keys; `successCount` / `duplicateCount` / `failureCount` breakdown; filterable CSV export for admin review |
+| **Observability** | AOP-based request/response logging; order and payment status history tables capture every state transition with timestamps |
+| **Ops** | Multi-stage Docker build; Docker Compose starts app only after `pg_isready` healthcheck passes; environment secrets injected at runtime, not baked into the image |
+
+**Impact**
+Full e-commerce lifecycle in a single deployable unit: auth → catalog → cart → checkout (with promo codes) → order tracking → return requests → audit export. Documented via Swagger UI.
+
+---
+
+### [briefly](https://github.com/soumik-saha/briefly)
+> Multi-service URL summarization app: Spring Boot API + FastAPI LLM microservice + React UI, deployable to Kubernetes via Helm.
+
+**Engineering Highlights**
+
+- **Service decomposition:** Spring Boot (Java/Gradle) owns API routing and summary persistence; FastAPI (Python) isolates LLM inference — two runtimes, each independently scalable and replaceable
+- **Deployment:** Helm chart for Kubernetes; root-level Docker Compose for local parity; each service ships its own Dockerfile
+- **Separation of concerns:** The Java backend treats the LLM service as an internal dependency — callers never talk to the model server directly
+
+**Impact**
+Demonstrates polyglot service design and cloud-native deployment readiness beyond a single Spring Boot monolith.
+
+---
+
+### [SkyPulse](https://github.com/soumik-saha/SkyPulse)
+> Automated aircraft damage detection system — built for Airbus Aerothon 6.0.
+
+**Engineering Highlights**
+
+- Fine-tuned **YOLOv5** on a custom aviation dataset (Roboflow) to detect and localize cracks, dents, and deformities on fuselage and wings
+- **Random Forest classifier** trained on image-extracted features to flag faulty wiring within aircraft harnesses
+- **Streamlit** backend integrates model inference with file upload, result visualization, and repair recommendation output
+- End-to-end pipeline: image upload → preprocessing (OpenCV) → damage classification → repair suggestion
+
+**Impact**
+Working prototype delivered under hackathon time constraints; covers the full detection-to-recommendation loop for three damage categories.
+
+---
+
+### [PulseConnect](https://github.com/soumik-saha/PulseConnect)
+> Blood donation matching platform connecting donors, recipients, and blood banks.
+
+**Engineering Highlights**
+
+- **JWT + Google OAuth2** via Passport.js — local and social auth strategies, session-aware cookie handling
+- **MongoDB/Mongoose** schema design for donor profiles, donation requests, and bank inventory
+- Express middleware chain: CORS → cookie-parser → auth → route handlers
+
+**Impact**
+Full-stack MERN application with dual auth strategies and geo-aware donor matching flow.
+
+---
+
+## Engineering Mindset
+
+I start with correctness before optimizing for performance. That means: define the contract, handle the failure modes, make operations safe to retry, then add caching or async paths where the profiling justifies it. I prefer explicit over implicit — if a service has a side effect (audit log, notification, stock decrement), that effect is visible in code, not hidden in an interceptor with no obvious trigger.
+
+---
+
+## Current Focus
+
+- Distributed systems fundamentals: consensus, replication, and partition tolerance trade-offs
+- High-level and low-level system design (rate limiters, notification fan-out, distributed queues)
+- Deepening Spring ecosystem knowledge: reactive streams, Spring Batch, Spring Cloud patterns
+
+---
+
+## Contact
+
+| | |
+|---|---|
+| **LinkedIn** | [linkedin.com/in/soumikisonline](https://linkedin.com/in/soumikisonline) |
+| **Portfolio** | [soumik.me](https://soumik.me) |
+| **Email** | sahasoumik1573@gmail.com |
+| **GitHub** | [github.com/soumik-saha](https://github.com/soumik-saha) |
+| **LeetCode** | [leetcode.com/soumiksaha](https://leetcode.com/soumiksaha) |
+
+---
+
+<details>
+<summary><strong>Profile Notes (for reviewers)</strong></summary>
+
+**Repositories not worth your time:**
+`DN3.0_Exercises` (training coursework), `CrackYourPlacement` / `6-Companies-30-Days` (DSA grind repos), `Number-Guessing-Game`, `Rock-Paper-Scissor`, `Simon-Game`, `dice-challenge`, `drum-kit` (toy/tutorial projects), `tindog`, `Space-Tourism`, `EliteTask-Dynamics` (HTML/CSS clones with no backend).
+
+**High-impact projects I'm building next:**
+1. **Rate Limiter Service** — token bucket + sliding window, Redis-backed, exposed as a library and as a standalone gRPC endpoint
+2. **Distributed Task Queue** — delayed job scheduling, priority queue, at-least-once delivery with retry/backoff, worker pool management
+3. **Real-time Notification System** — SSE + WebSocket fan-out, subscription management, delivery guarantee with inbox persistence
+
+</details>
