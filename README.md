@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/soumikisonline"><img src="https://img.shields.io/badge/LinkedIn-soumikisonline-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://soumik.me"><img src="https://img.shields.io/badge/Portfolio-soumik.me-4A90E2?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.soumik.co.in"><img src="https://img.shields.io/badge/Portfolio-www.soumik.co.in-4A90E2?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:sahasoumik1573@gmail.com"><img src="https://img.shields.io/badge/Email-sahasoumik1573@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=soumik-saha&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
@@ -118,7 +118,7 @@ I start with correctness before optimizing for performance. That means: define t
 | | |
 |---|---|
 | **LinkedIn** | [linkedin.com/in/soumikisonline](https://linkedin.com/in/soumikisonline) |
-| **Portfolio** | [soumik.me](https://soumik.me) |
+| **Portfolio** | [www.soumik.co.in](https://www.soumik.co.in) |
 | **Email** | sahasoumik1573@gmail.com |
 | **GitHub** | [github.com/soumik-saha](https://github.com/soumik-saha) |
 | **LeetCode** | [leetcode.com/soumiksaha](https://leetcode.com/soumiksaha) |
